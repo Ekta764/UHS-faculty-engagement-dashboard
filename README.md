@@ -29,6 +29,6 @@ The accompanying video (*Faculty Engagement Dashboard.mp4*) demonstrates the das
 - **KPI Tracking**  
 
  ## Files in This Repository
-- `Faculty Engagement Dashboard.mp4` — walkthrough of the dashboard  
+- `Dashboard` — walkthrough of the dashboard  
 - `README.md` — project explanation and usage  
 
